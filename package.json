@@ -1,0 +1,12 @@
+{
+  "name": "com.unity.framecapturer",
+  "version": "0.0.0",
+  "displayName": "FrameCapturer",
+  "description": "This is a package created using sources from the following repository: https://github.com/unity3d-jp/FrameCapturer in order not to import it to assets directly, but using 'Add package from git URL' option.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Unity",
+    "url": "https://www.unity3d.com"
+  }
+}
